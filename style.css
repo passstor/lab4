@@ -1,0 +1,21 @@
+.navigation
+{
+    list-style-type: none;
+    display: inline;
+    font-size: 30px;
+    margin-left: 0px;
+}
+.navigation li
+{
+    display: inline;
+    margin-right: 30px;
+}
+li a{color: rgb(55, 31, 102);}
+li a:hover{color: #2a2a77
+}
+a:visited{color: #34502e
+}
+.left{flex-grow: 1;max-width:30%}
+.middle{flex-grow: 3;max-width:30%}
+.right{ flex-grow: 1;max-width:30%}
+h1{color: rgb(98, 21, 62);}
